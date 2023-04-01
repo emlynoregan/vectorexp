@@ -1,0 +1,8 @@
+boto3
+openai[embeddings]
+# numba
+cupy-cuda12x
+numpy
+jsonschema
+bson
+sentence-transformers
